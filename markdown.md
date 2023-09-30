@@ -35,7 +35,38 @@ For adding images use next regular expression:
 
 ## Tables
 
+Use vertical lines ' \| ' and dashes ' \- ' to create tables
+
+| Month | Savings|
+|-------|--------|
+| Jan   | $10    |
+| Feb   | $20    |
+| March | $30    |
+
+Use ' : ' to set allignment of the colomn:
+\:----
+
+\:---:
+
+\----:
+
+| Month | Savings|
+|:-------:|--------:|
+| Jan   | $10    |
+| Feb   | $20    |
+| March | $30    |
+
+
 ## Links
+
+### Internal links
+
+Internal liks are similar to external links,
+use the following pattern:
+\[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
+
+Example:
+[go to 'Text Formatting'](markdown#text-formatting)
 
 ### External links
 
