@@ -68,9 +68,5 @@ use the following pattern:
 Example:
 [go to 'Text Formatting'](markdown#text-formatting)
 
-### External links
 
-Use the following pattern "\[Link text Here](https://link-url-here.org)"
-
-Example: [Visit Google](https://google.com)
 
