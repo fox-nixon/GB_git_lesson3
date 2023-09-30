@@ -36,3 +36,12 @@ For adding images use next regular expression:
 ## Tables
 
 ## Links
+
+### Internal links
+
+Internal liks are similar to external links,
+use the following pattern:
+\[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
+
+Example:
+[go to 'Text Formatting'](markdown#text-formatting)
