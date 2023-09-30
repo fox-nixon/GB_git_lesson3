@@ -44,6 +44,7 @@ Use vertical lines ' \| ' and dashes ' \- ' to create tables
 | March | $30    |
 
 Use ' : ' to set allignment of the colomn:
+
 \:----
 
 \:---:
@@ -59,12 +60,12 @@ Use ' : ' to set allignment of the colomn:
 
 ## Links
 
-### Internal links
+## External links
 
 Use the following pattern "\[Link text Here](https://link-url-here.org)"
 
 Example: [Visit Google](https://google.com)
-
+### Internal links
 Internal liks are similar to external links,
 use the following pattern:
 \[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
