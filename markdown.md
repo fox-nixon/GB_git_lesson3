@@ -42,4 +42,3 @@ For adding images use next regular expression:
 Use the following pattern "\[Link text Here](https://link-url-here.org)"
 
 Example: [Visit Google](https://google.com)
-
