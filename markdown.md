@@ -61,6 +61,10 @@ Use ' : ' to set allignment of the colomn:
 
 ### Internal links
 
+Use the following pattern "\[Link text Here](https://link-url-here.org)"
+
+Example: [Visit Google](https://google.com)
+
 Internal liks are similar to external links,
 use the following pattern:
 \[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
