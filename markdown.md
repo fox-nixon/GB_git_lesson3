@@ -30,6 +30,8 @@ Unordered lists:
 1. Forth item
 
 ## Images
+For adding images use next regular expression:
+![If I ignore it, maybe it will go away](.\img\ignore.jpg)
 
 ## Tables
 
